@@ -47,7 +47,7 @@ Ce projet est une application de gestion pour les piscines, permettant de réali
 Exécutez la commande suivante pour installer les dépendances :
 ```bash
 pip install PyQt6 reportlab
-python -m PyInstaller --onefile --windowed main_app.py
+python -m PyInstaller --onefile --windowed --icon=icone2.ico main_app.py
 ```
 ### Auteur
 [Damman Alexandre](https://github.com/kaldex0)
